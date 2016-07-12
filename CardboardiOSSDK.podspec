@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "CardboardiOSSDK"
-  s.version          = "0.7.2.1"
+  s.version          = "0.7.2.2"
   s.summary          = "Cardboard iOS SDK"
 
   s.description      = <<-DESC
@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
 
   s.homepage         = "https://github.com/islate/CardboardSDK-iOS"
   s.license          = 'Apache'
-  s.author           = { "林溢泽" => "linyize@gmail.com" }
-  s.source           = { :git => "https://github.com/islate/CardboardSDK-iOS.git", :tag => s.version.to_s }
+  s.author           = { "davidsph" => "daviddjy@163.com" }
+  s.source           = { :git => "https://github.com/davidsph/CardboardSDK-iOS.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = '7.0'
 
